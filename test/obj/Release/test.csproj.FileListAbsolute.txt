@@ -1,0 +1,14 @@
+F:\test\test\bin\Release\test.exe.config
+F:\test\test\bin\Release\test.exe
+F:\test\test\bin\Release\test.pdb
+F:\test\test\obj\Release\test.Main.resources
+F:\test\test\obj\Release\test.Oprog.resources
+F:\test\test\obj\Release\test.Properties.Resources.resources
+F:\test\test\obj\Release\test.Screensaver.resources
+F:\test\test\obj\Release\test.Spravka.resources
+F:\test\test\obj\Release\test.Test.resources
+F:\test\test\obj\Release\test.Theory.resources
+F:\test\test\obj\Release\test.csproj.GenerateResource.cache
+F:\test\test\obj\Release\test.csproj.CoreCompileInputs.cache
+F:\test\test\obj\Release\test.exe
+F:\test\test\obj\Release\test.pdb
